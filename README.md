@@ -11,7 +11,7 @@ npm run dev
 Then open http://localhost:3000 in your browser.
 
 **Links:**
-- Live demo: [to be added after deployment]
+- Live demo: (https://async-labs-screening-dhruvjain.vercel.app/)
 - GitHub: https://github.com/Dhruv-Jain-2006/async-labs-screening-dhruvjain
 
 **Incomplete/Next steps:**
