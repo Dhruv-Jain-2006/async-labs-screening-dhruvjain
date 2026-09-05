@@ -15,9 +15,7 @@ Then open http://localhost:3000 in your browser.
 - GitHub: https://github.com/Dhruv-Jain-2006/async-labs-screening-dhruvjain
 
 **Incomplete/Next steps:**
-- The right column of the features section is reserved but empty (placeholder slot for upcoming content).
 - Some nav links (Pricing, About, Contact) don't scroll to corresponding sections yet.
-- Deployment to a live hosting platform (Vercel/Netlify) pending.
 
 **Time spent:** ~4 hours
 
